@@ -52,14 +52,6 @@ body {
 	color: #fff;
 	font-size: 1em;
 }
-#clock div span {
-	position: absolute;
-	transform: translateX(-50%) translateY(-10px);
-	font-size: 0.35em;
-	font-weight: 300;
-	letter-spacing: 0.1em;
-	text-transform: uppercase;
-}
 #clock .psm {
 	position: relative;
 	font-size: 1em;
