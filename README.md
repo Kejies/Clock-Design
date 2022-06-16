@@ -1,3 +1,3 @@
 # Clock-Design
-Preview
+**Preview**
 ![Uploading clock.png…]()
